@@ -22,8 +22,4 @@ print(student)
 #deleting or removing from dictinary
 
 student.pop("age")
-del my_info["phone"]
-#student.clear()
-
-print(my_info)
-print(student)
+del[]

@@ -13,17 +13,8 @@ print(student.get("age"))
 
 ##adding n updating on dict
 
-my_info["email"] = "itssss@g.com" #updating
-student["course"] = "science"       #adding
-
-print(my_info)
-print(student)
-
-#deleting or removing from dictinary
-
-student.pop("age")
-del my_info["phone"]
-#student.clear()
+my_info["email"] = "itssss@g.com"
+student["course"] = "science"
 
 print(my_info)
 print(student)

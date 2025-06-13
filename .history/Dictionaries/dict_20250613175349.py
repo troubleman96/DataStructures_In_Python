@@ -23,7 +23,3 @@ print(student)
 
 student.pop("age")
 del my_info["phone"]
-#student.clear()
-
-print(my_info)
-print(student)
